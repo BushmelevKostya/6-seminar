@@ -1,8 +1,9 @@
 # ninja log v5
-1	82	7233041499845672	build.ninja	bdaaa6956a5d2008
-67	147	7228873223852057	6_seminar.exe	75b1869cacfffb62
-10	214	7228867227677712	CMakeFiles/6_seminar.dir/vector/vector.c.obj	9000debea502c149
-2	67	7228873223082797	CMakeFiles/6_seminar.dir/vector/main.c.obj	1799819c5f25f6e8
-3	99	7233041670183289	CMakeFiles/6_seminar.dir/vector/main.c.obj	41341848784f7ad8
-8	124	7233041670440187	CMakeFiles/6_seminar.dir/vector/vector.c.obj	90c10fb0c3be1f91
+1	82	7233047771692203	build.ninja	bdaaa6956a5d2008
 124	308	7233041672262805	6_seminar.exe	75b1869cacfffb62
+8	124	7233041670440187	CMakeFiles/6_seminar.dir/vector/vector.c.obj	90c10fb0c3be1f91
+3	99	7233041670183289	CMakeFiles/6_seminar.dir/vector/main.c.obj	41341848784f7ad8
+2	193	7233047771692203	build.ninja	fcb9354b23fa1ad5
+5	82	7233047773223971	CMakeFiles/6_seminar.dir/3_task/main.c.obj	f299203d4b358c11
+1	97	7233047773390856	CMakeFiles/6_seminar.dir/3_task/vector.c.obj	498f4b17bee359a6
+97	181	7233047774190847	6_seminar.exe	de8da1b7f77b2d83
