@@ -1,0 +1,3 @@
+C:/Assembler/6-seminar/cmake-build-debug/CMakeFiles/6_seminar.dir
+C:/Assembler/6-seminar/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Assembler/6-seminar/cmake-build-debug/CMakeFiles/rebuild_cache.dir

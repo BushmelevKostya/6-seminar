@@ -1,0 +1,8 @@
+# ninja log v5
+1	82	7233041499845672	build.ninja	bdaaa6956a5d2008
+67	147	7228873223852057	6_seminar.exe	75b1869cacfffb62
+10	214	7228867227677712	CMakeFiles/6_seminar.dir/vector/vector.c.obj	9000debea502c149
+2	67	7228873223082797	CMakeFiles/6_seminar.dir/vector/main.c.obj	1799819c5f25f6e8
+3	99	7233041670183289	CMakeFiles/6_seminar.dir/vector/main.c.obj	41341848784f7ad8
+8	124	7233041670440187	CMakeFiles/6_seminar.dir/vector/vector.c.obj	90c10fb0c3be1f91
+124	308	7233041672262805	6_seminar.exe	75b1869cacfffb62
